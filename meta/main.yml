@@ -1,4 +1,6 @@
 ---
+dependencies:
+  - role: stevenharradine.2
 galaxy_info:
   author: "Steven Harradine"
   company: "TELUS digital"
